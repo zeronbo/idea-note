@@ -1,4 +1,4 @@
-#IDEA默认快捷键
+#IDEA快捷键
 
 ##Editing
 
@@ -147,6 +147,8 @@
 +	`itli`：list的循环模板。
 +	`psf`：静态常量模板。
 +	`thr`：抛出新异常模板(throw new)。
++	`psvm`：生成main方法。**(常用)**
++	`sout`：生成System.out.println()。**(常用)**
 
 ##General
 
